@@ -1,0 +1,12 @@
+category,priority,repo,url,keep_for,main_caution
+dispatch,high,souravvoid/-rapid-response-ems,https://github.com/souravvoid/-rapid-response-ems,"dispatch loop; ambulance assignment; hospital fallback; driver GPS","rule-based; limited optimization depth"
+dispatch,high,qppd/ambulance-dispatch-management-system,https://github.com/qppd/ambulance-dispatch-management-system,"multi-role product shell; realtime operations; analytics; tests","hospital allocation not core yet"
+dispatch,medium,jamesypeng/Smarter-Emergency-Dispatch,https://github.com/jamesypeng/Smarter-Emergency-Dispatch,"forecasting; automated assignment; ambulance post positioning","planning-heavy, not full operations product"
+routing,high,hackathon-NareshIT/liferoute-ai-smart-emergency-ambulance-routing-system,https://github.com/hackathon-NareshIT/liferoute-ai-smart-emergency-ambulance-routing-system,"routing APIs; ambulance tracking; hospitals; request flow","demo-grade; pseudo-ML"
+routing,medium,ShubhamPhapale/dynamic-emergency-response-vehicle-routing-system,https://github.com/ShubhamPhapale/dynamic-emergency-response-vehicle-routing-system,"simulation; fleet lifecycle; hospital drop-off; dashboards","simulation-first"
+routing,low,SANJAY8125/VitalRoute,https://github.com/SANJAY8125/VitalRoute,"signal priority; emergency traffic handling","subsystem only"
+hospital,high,dhcsousa/hospitopt,https://github.com/dhcsousa/hospitopt,"optimization worker; ambulance-patient-hospital assignment; capacity-aware logic","not a polished public dispatch product"
+hospital,medium,sweetylearner-max/emergency-hospital-rec-system,https://github.com/sweetylearner-max/emergency-hospital-rec-system,"hospital scoring; beds; specialist match; alerts","hackathon-grade"
+hospital,medium,HariniCJ/Ambulance-Navigation-with-Hospital-Availability-and-Dynamic-Traffic-Routing,https://github.com/HariniCJ/Ambulance-Navigation-with-Hospital-Availability-and-Dynamic-Traffic-Routing,"travel-time-aware hospital scoring; police dashboard concept; vitals handoff","prototype depth unclear"
+hospital,low,AbuHumayd1/Med_Route---Alx_Capstone_Project,https://github.com/AbuHumayd1/Med_Route---Alx_Capstone_Project,"resource tracking; hospital matching backend","less complete than primary picks"
+hospital,low,rishik-kumar/ROAD-ACCIDENT-SEVERITY-AND-HOSPITAL-RECOMMENDATION-USING-DEEP-LEARNING,https://github.com/rishik-kumar/ROAD-ACCIDENT-SEVERITY-AND-HOSPITAL-RECOMMENDATION-USING-DEEP-LEARNING,"severity-aware hospital recommendation ideas","classification-heavy; not dispatch-heavy"
